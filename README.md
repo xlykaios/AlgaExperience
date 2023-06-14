@@ -55,7 +55,7 @@ Sprout is a product of a two-weeks project at the Apple Developer Academy. I've 
 <h2> Personal contribution </h2>
 
 My main tasks have been:
-- game scenes and nodes rendering,
-- core game mechanics implementation with swipe gestures reading,
-- score system.
+- Game assets for characters and scenes,
+- Original Soundtrack and Sound Effect Systems
+- Score System and Start/Game Over scenes.
 
